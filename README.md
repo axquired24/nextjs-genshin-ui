@@ -5,6 +5,8 @@
 Simple UI to explore [https://genshin.dev](https://genshin.dev/) using Click Navigation
 
 ---
+![image](https://user-images.githubusercontent.com/9043550/219098691-9c1aeebb-afaa-40c2-97ac-24898e18d5cd.png)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
